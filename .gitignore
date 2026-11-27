@@ -1,0 +1,29 @@
+# ローカルのツール・一時ファイル
+.claude/settings.local.json
+.gemini/
+.impeccable/
+_tmp_prof/
+
+# Android / Gradle
+.gradle/
+.kotlin/
+build/
+local.properties
+captures/
+*.apk
+*.aab
+*.keystore
+*.jks
+keystore.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# 秘密情報
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db

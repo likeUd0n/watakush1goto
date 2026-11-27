@@ -1,0 +1,5 @@
+<resources>
+    <!-- 起動直後の背景(Compose の Paper と同じ) -->
+    <color name="paper">#FFEEF1F4</color>
+    <color name="accent">#FF2E5A88</color>
+</resources>
